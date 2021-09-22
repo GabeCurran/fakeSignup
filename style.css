@@ -1,0 +1,32 @@
+#landingLogin {
+    display: flex;
+    flex-direction: column;
+}
+
+#landingLogin > input {
+    text-align: center;
+    max-width: 10vw;
+    min-width: 100px;
+}
+
+#landingLogin > button {
+    max-width: 10vw;
+    min-width: 100px;
+}
+
+#matrix {
+    display: flex;
+    flex-direction: column;
+}
+
+#matrix > input {
+    max-width: 300px;
+    min-width: 150px;
+    margin-top: 10px;
+}
+
+#matrix > button {
+    max-width: 300px;
+    min-width: 150px;
+    margin-top: 10px;
+}
